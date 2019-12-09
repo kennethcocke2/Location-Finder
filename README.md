@@ -1,2 +1,2 @@
 # Location-Finder
-I single page web app to find locations based on zipcode, using Bulma and Font Awesome.
+A single page web app to find locations based on zipcode, using Bulma and Font Awesome.
